@@ -1,4 +1,4 @@
-# SparkFun u-blox Arduino GNSS Library
+# SparkFun u-blox Arduino GNSS Library - MicroPython Adaptation [WIP]
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
